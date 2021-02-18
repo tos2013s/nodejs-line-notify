@@ -1,6 +1,6 @@
 const LineNotify = require("./src/client");
 
-const ACCESS_TOKEN = "4dsVfCgR7LpqIGOooWHVYSzVYCg0QSAhtqy8mcdBOwV!";
+const ACCESS_TOKEN = "Xc5gLo8IFM4b1t5GQII2oakRvEzxveFzsVUBr7iYrjj";
 const notify = new LineNotify('${ACCESS_TOKEN}');
 
 //notify.sendText("Halo Enji");
